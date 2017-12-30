@@ -19,13 +19,13 @@ body {
     border-radius: 0px;
 }
 
-.page-link {
-    color: white;
+.navbar-collapse {
+    border-color: rgba(146, 51, 51, 0.76) !important;
 }
 
 .icon-bar {
-    color: white;
-    background: white;
+    color: white !important;
+    background: white !important;
 }
 
 .page-link {
